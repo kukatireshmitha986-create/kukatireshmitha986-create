@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Reshmitha Kukati
 
-<!--
-**kukatireshmitha986-create/kukatireshmitha986-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical projects using data, analytics, dashboards, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python
+* SQL
+* Pandas
+* Streamlit
+* Machine Learning
+* Data Visualization
+* Git & GitHub
+* SQLite
+
+## 📌 Featured Project
+
+### 💰 FinSight AI
+
+AI Powered Personal Finance Advisor
+
+Features:
+
+* Financial Dashboard
+* Expense Analytics
+* Expense Prediction
+* Budget Planning
+* PDF Reports
+* Multi-User Login System
+
+Repository:
+👉 FinSightAI
+
+---
+
+## 📊 Currently Learning
+
+* Advanced Data Analytics
+* Machine Learning Projects
+* Dashboard Development
+
+---
+
+## 📫 Connect
+
+GitHub: @kukatireshmitha986-create
